@@ -30,7 +30,7 @@
 /wp-content/*
 !/wp-content/themes
 /wp-content/themes/*
-!/wp-content/themes/twentytwentyone-child
+!/wp-content/themes/bootscore-child
 
 # For more info about this gitignore-pattern, see e.g.:
 # https://stackoverflow.com/a/29012085/809939)

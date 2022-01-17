@@ -1,3 +1,19 @@
+# bootscore example
+
+Theme: https://bootscore.me/
+Live: https://bootscore-example.mandrasch.eu/
+
+- Child theme is synced via [WPPusher](https://wppusher.com/)
+
+- Setup live site with bootscore base theme
+- copy `ddev/example.config.yaml` to config.yaml, add SSH credentials
+- `ddev start`
+- `ddev auth ssh`
+- `ddev pull ssh`
+- develop child theme
+- install it on live site via [WPPusher](https://wppusher.com/) &raquo; Install Theme &raquo; Subdirectory install
+<hr>
+
 # DDEV pull wp scripts
 
 🧘&nbsp; *Keep calm and pull your site.* 🧘
